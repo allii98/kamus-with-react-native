@@ -1,0 +1,14 @@
+com/ali/kamusku/MainActivity.java
+ com.ali.kamusku.MainActivity
+com/kamusku/ReactNativeFlipper.java
+ com.ali.kamusku.ReactNativeFlipper
+ com.ali.kamusku.ReactNativeFlipper$1
+ com.ali.kamusku.ReactNativeFlipper$2
+ com.ali.kamusku.ReactNativeFlipper$2$1
+com/ali/kamusku/BuildConfig.java
+ com.ali.kamusku.BuildConfig
+com/ali/kamusku/MainApplication.java
+ com.ali.kamusku.MainApplication
+ com.ali.kamusku.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
